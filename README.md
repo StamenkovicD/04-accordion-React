@@ -2,19 +2,6 @@
 
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
-![](./idea.png);
+Project 4 Accordion 
 
-#### React Icons
-
-[react icons](https://react-icons.github.io/react-icons/)
-
-```
-npm install react-icons --save
-```
-
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+Date: 14.08.2021
